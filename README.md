@@ -1,6 +1,6 @@
 Frontend (Next.js) 
 
-Academic Paper Summarizer Frontend (Next.js)
+Academic Paper Summarizer Backend (RAG + FastAPI) (for the IIT Kanpur+BoltIOT AI&ML internship project)
 
 This is the Next.js frontend for Ragarxiv, designed to interact with the FastAPI backend. It allows users to input a research query and receive summarized academic papers.
 
